@@ -1,0 +1,18 @@
+Q 1 . Modéliser les enseignants : quelles sont les classes ? ou sont implémentées les méthodes ? lesquelles sont
+nouvelles, redéfinies?
+
+Les classes sont :
+une class abstract Enseignant
+une class EnseignantFac qui extends Enseignant
+une class EnseignantExt qui extends Enseignant
+
+
+Q 2 . Ecrire les classes Java.
+
+
+Q 3 . Comment modifier le modèle pour y introduire les étudiants de troisième cycle qui assurent des enseignements
+: toutes les heures effectuées sont complémentaires mais dans la limite de 96 heures.
+
+
+Q 4 . Cela pose-t-il un problème de prendre en compte le fait que les étudiants, n’ayant pas d’employeur, voient leur
+rétribution diminuée de 18% ?
